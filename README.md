@@ -1,4 +1,4 @@
-# HoliQuraan_Explorer For Android
+# Holi Quraan Explorer For Android | المصحف المصور
 Free Holi Quraan Explorer App For Android
 Free To Use And Develop
 
