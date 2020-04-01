@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">القرأن الكريم</string>
+    <string name="action_settings">علامة</string>
+    <string name="MainTitle1">القرأن الكريم</string>
+    <string name="action_share_page">مشاركة الصفحة</string>
+    <string name="action_add_book_mark">إضافة علامة</string>
+    <string name="action_remove_book_mark">حذف العلامة</string>
+
+    <string name="Sura_Index">الفهرس</string>
+    <string name="Parts_Index">الاجزاء</string>
+    <string name="Book_Marks">العلامات</string>
+    <string name="SearchTab">البحث</string>
+
+    <string name="AddBookMarkSuccess">تم حفظ العلامة</string>
+    <string name="DeleteBookMarkSuccess">تم حذف العلامة بنجاح</string>
+</resources>

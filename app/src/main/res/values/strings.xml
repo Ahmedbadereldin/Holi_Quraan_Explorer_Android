@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Quraan Android</string>
+    <string name="action_settings">Book Mark</string>
+    <string name="MainTitle1">Quraan Android</string>
+    <string name="action_share_page">Share Page</string>
+    <string name="action_add_book_mark">Add Book Mark</string>
+    <string name="action_remove_book_mark">Delete Book Mark</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="Sura_Index">Sura Index</string>
+    <string name="Parts_Index">Parts Index</string>
+    <string name="Book_Marks">Book Marks</string>
+    <string name="SearchTab">Search</string>
+
+
+    <string name="AddBookMarkSuccess">Book Mark Added Success</string>
+    <string name="DeleteBookMarkSuccess">Book Mark Deleted Success</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
